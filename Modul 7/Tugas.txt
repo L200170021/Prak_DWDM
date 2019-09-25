@@ -1,0 +1,14 @@
+Modul 7
+Nama  : Adnan Shafry Ari Purnama Aji
+NIM   : L200170021
+Kelas : B
+
+#Jumlah atribut tipe binominal   : 4 (Gender, Asal_Sekolah, Asisten, Lama_Studi) 
+#Jumlah atribut tipe polynominal : 1 (Jurusan_SMA)
+
+#Jumlah atribut tipe real        : 1 (Rerata_SKS)
+
+#Besar nilai                     : -. Max    = 16
+				   -. Min    = 23
+				   -. Mean   = 18.95
+				   -. StdDev = 1.669
